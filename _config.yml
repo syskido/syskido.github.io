@@ -183,7 +183,7 @@ defaults:
   - scope:
       path: _drafts
     values:
-      comments: ture
+      comments: false
   - scope:
       path: ""
       type: tabs # see `site.collections`
