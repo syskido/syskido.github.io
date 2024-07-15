@@ -1,3 +1,12 @@
+---
+layout: post
+title: Termux Vscode setting_1
+date: 15-07-2024
+categories: [vscode]
+tag: [like, comment, subscribe]
+---
+
+
 
 # Welcome to Termux
 > 
