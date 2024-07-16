@@ -222,9 +222,6 @@ Liquid::Template.register_filter(Jekyll::ReverseFilter)
 
 ## 예시: 현재 날짜를 출력하는 태그
 
-1. `_plugins` 폴더에 `current_date_tag.rb` 파일을 생성합니다.
-2. 다음 코드를 작성합니다.
-
 ```ruby
 module Jekyll
   class CurrentDateTag < Liquid::Tag
@@ -248,10 +245,6 @@ Liquid::Template.register_tag('current_date', Jekyll::CurrentDateTag)
 
 제너레이터 플러그인은 Jekyll 사이트를 빌드할 때 새로운 페이지를 생성하거나 기존 페이지를 변형합니다. `_plugins` 폴더에 새로운 Ruby 파일을 생성하고 제너레이터를 정의할 수 있습니다.
 
-## 예시: 사이트에 페이지 목록 생성
-
-1. `_plugins` 폴더에 `page_list_generator.rb` 파일을 생성합니다.
-2. 다음 코드를 작성합니다.
 
 ```ruby
 module Jekyll
