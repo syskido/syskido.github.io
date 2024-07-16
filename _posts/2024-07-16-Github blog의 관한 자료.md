@@ -1,3 +1,16 @@
+---
+layout: post
+title: GitHub blog 
+date: 16-07-2024
+categories: [GitHub]
+tag: [like, comment, subscribe]
+---
+
+
+
+
+
+
 # GitHub Blog란
  GitHub Pages라는 기능을 통해 사용자가 손쉽게 정적 웹사이트를 만들고 호스팅할 수 있도록 지원합니다. GitHub Pages를 사용하면 주로 다음과 같은 용도로 활용됩니다:
 
