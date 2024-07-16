@@ -38,8 +38,6 @@ bundle exec jekyll serve
 
 이제 `http://localhost:4000`에서 로컬 서버를 확인할 수 있습니다.
 
-## 4. Jekyll 테마 선택 및 적용
-Jekyll 테마를 적용하려면 `_config.yml` 파일을 수정해야 합니다. Jekyll 테마는 다양한 소스에서 찾을 수 있으며, 가장 많이 사용되는 곳은 [Jekyll Themes](https://jekyllthemes.io/)와 [GitHub Pages Themes](https://pages.github.com/themes/)입니다.
 
 예를 들어, "minima" 테마를 적용하려면 `_config.yml` 파일에 다음 줄을 추가합니다.
 
@@ -317,10 +315,6 @@ end
 ```sh
 bundle exec jekyll serve
 ```
-
-## 6. 플러그인 배포
-
-만약 작성한 플러그인을 다른 사람과 공유하고 싶다면, RubyGem으로 배포할 수 있습니다. RubyGem 배포는 별도의 절차가 필요하므로, 필요하다면 [RubyGems.org](https://guides.rubygems.org/make-your-own-gem/)의 가이드를 참조하세요.
 
 
 
