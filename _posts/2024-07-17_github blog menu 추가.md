@@ -1,3 +1,13 @@
+---
+layout: post
+title: Blog menu 추가
+date: 17-07-2024
+categories: [Blog]
+tag: [like, comment, subscribe]
+---
+
+
+
 ## 1. Jekyll 테마 선택 및 설정
 
 먼저, Github 블로그는 주로 Jekyll이라는 정적 사이트 생성기를 사용합니다. 대부분의 Jekyll 테마는 메뉴를 쉽게 추가할 수 있도록 설정 파일을 제공합니다. 
