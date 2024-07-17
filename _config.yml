@@ -225,3 +225,7 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+menu:
+  - text: "1인 크리에이트"
+  - url: "https//syskido.tistory.com"
