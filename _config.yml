@@ -227,5 +227,5 @@ jekyll-archives:
     category: /categories/:name/
 
 menu:
-  - text: "1인 크리에이트"
+  - text: "1 creator"
   - url: "https//syskido.tistory.com"
