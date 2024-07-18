@@ -2,7 +2,7 @@
 latout: posts
 title: new blog
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: fa-brands fa-facebook
 order: 4
 ---
 
