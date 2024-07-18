@@ -10,7 +10,7 @@ tag: [like, comment, subscribe]
 ##
 ![61651321.jpg](https://avatars.githubusercontent.com/u/61651321?s=400&u=380c4fa5a1a81e90e3ac34e72298b628e8e13852&v=4)
 
-# (https://syskido.tistory.com/)
+# [[나령 윤기도 블로그]](https://syskido.tistory.com/)
 ## kido       
 ## syskido
 ### I was born in Korea, the most proud of the world. In the future,I would like to show you how to study in a new way. I would appreciate it if you always support
