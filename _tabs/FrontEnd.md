@@ -1,5 +1,5 @@
 ---
-layout: 나령 윤기도 소개 페이지
+layout: FrontEnd
 icon: fa-solid fa-bars
 order: 5
 ---
