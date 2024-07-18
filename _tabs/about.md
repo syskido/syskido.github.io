@@ -7,12 +7,6 @@ url: "https//www.facebook.com/kidoyun"
 order: 4
 ---
 
-     <title>Document</title>
-     <link rel="stylesheet" href="homepage.css">
-</head>
-<body>
-    <nav>
-        <ul>
-           <li><a href="#">메뉴1</a></li>
-        </ul>
-    </nav>
+     
+<li><a href="https://syskido.tistory.com">1인 크리에이터 나령 윤기도</a></li>
+        
