@@ -1,3 +1,12 @@
+---
+latout: posts
+title: new blog
+# the default layout is 'page'
+icon: fa-brands fa-facebook
+url: ""
+order: 4
+---
+
 <h1 align="center">
   # Hi, I'm Dream Kido-Coding</h1>
   
