@@ -6,6 +6,8 @@ categories: [GitHub]
 tag: [like, comment, subscribe]
 ---
 
+![kido](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyskido%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=accusoft.svg&icon_color=%23E7E7E7&title=나령윤기도&edge_flat=false)
+
 ## 1. Jekyll 테마 선택 및 설정
 
 먼저, Github 블로그는 주로 Jekyll이라는 정적 사이트 생성기를 사용합니다. 대부분의 Jekyll 테마는 메뉴를 쉽게 추가할 수 있도록 설정 파일을 제공합니다. 
