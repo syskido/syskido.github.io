@@ -4,6 +4,8 @@ icon: fa-solid fa-bars
 order: 5
 ---
 
+![kido](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyskido%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=accusoft.svg&icon_color=%23E7E7E7&title=나령윤기도&edge_flat=false)
+
 [Kido 홈페이지](https://github.com/syskido/kido-coding-web-page/tree/main)
 
 ![kido_coding](https://github.com/user-attachments/assets/a6db948a-cc2d-45e4-8aa9-7589211798a6)
