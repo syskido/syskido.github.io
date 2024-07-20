@@ -13,9 +13,11 @@ order: 4
   # Hi, I'm Dream Kido-Coding</h1>
   
 <h1 align="center">
- 
+ ## My career: 1인 크리에이트 나령 윤기도
+![61651321.jpg](https://avatars.githubusercontent.com/u/61651321?s=400&u=380c4fa5a1a81e90e3ac34e72298b628e8e13852&v=4)
+
   
-  ![](https://avatars.githubusercontent.com/u/61651321?v=4)
+ 
  
 <a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
 <div align="center">
