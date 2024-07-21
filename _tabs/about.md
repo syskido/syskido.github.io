@@ -15,7 +15,8 @@ order: 4
 <h1 align="center">
  ## My career: 1인 크리에이트 나령 윤기도<br>
   
-![나령윤기도](https://avatars.githubusercontent.com/u/61651321?s=400&u=380c4fa5a1a81e90e3ac34e72298b628e8e13852&v=4)
+
+![kidoyun](https://github.com/user-attachments/assets/fac59a93-d53b-4099-a7ae-6f413ec6b5b6)
 
   
  
