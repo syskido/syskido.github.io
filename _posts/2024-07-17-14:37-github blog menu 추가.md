@@ -81,4 +81,10 @@ git add .
 git commit -m "메뉴 추가"
 git push origin main
 ```
-
+<script src="https://utteranc.es/client.js"
+        repo="syskido/syskido.github.io"
+        issue-term="pathname"
+        theme="github-dark-orange"
+        crossorigin="anonymous"
+        async>
+</script>
