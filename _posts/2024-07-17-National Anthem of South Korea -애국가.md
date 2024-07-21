@@ -18,10 +18,13 @@ tag: [like, comment, subscribe]
 
 반갑습니다.
 
-< 스크립트  src = " https://utteranc.es/client.js "
- 리포 = " syskido/syskido.github.io " 이슈-용어 = " url " 레이블 = " github " 테마 = " github-dark-orange " crossorigin = " 익명 " 비동기 > </ 스크립트 >        
-        
-        
+<script src="https://utteranc.es/client.js"
+        repo="syskido/syskido.github.io"
+        issue-term="pathname"
+        theme="github-dark-orange"
+        crossorigin="anonymous"
+        async>
+</script>       
         
         
         
