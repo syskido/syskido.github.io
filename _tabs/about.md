@@ -55,3 +55,10 @@ Icons by [https://icons8.com](https://icons8.com)
  </p>     
 <li><a href="https://syskido.tistory.com">1인 크리에이터 나령 윤기도</a></li>
         
+<script src="https://utteranc.es/client.js"
+        repo="syskido/syskido.github.io"
+        issue-term="pathname"
+        theme="github-dark-orange"
+        crossorigin="anonymous"
+        async>
+</script>
