@@ -13,13 +13,9 @@ order: 4
   # Hi, I'm Dream Kido-Coding</h1>
   
 <h1 align="center">
- ## My career: 1인 크리에이트 나령 윤기도<br>
-  
-
-![kidoyun](https://github.com/user-attachments/assets/fac59a93-d53b-4099-a7ae-6f413ec6b5b6)
-
-  
  
+  
+  ![](https://avatars.githubusercontent.com/u/61651321?v=4)
  
 <a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
 <div align="center">
@@ -36,6 +32,22 @@ I am Korean man
 
 ![](https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg?sanitize=true)
 <h2> My tech stack </h2>
+
+Icons by [https://icons8.com](https://icons8.com)
+
+## :link: Links
+
+<p align="center">
+   <a href="https://twitter.com/syskidoyun"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.youtube.com/@kido_1010"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
+  <a href="https://www.facebook.com/kidoyun"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://www.snapchat.com/add/syskido"><img src="https://img.icons8.com/color/96/000000/snapchat.png" alt="snapchat"/></a>
+  <a href="https://www.instagram.com/kidoyun"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://www.reddit.com/user/Ok_Fold9562"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
+  <a href="https://fr.pinterest.com/syskido"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest"/></a>
+  <a href="https://soundcloud.com/syskido"><img src="https://img.icons8.com/color/96/000000/soundcloud.png" alt="soundcloud"/></a>
+  <a href="https://www.tiktok.com/@kido_7777"><img src="https://img.icons8.com/color/96/tiktok.png" alt="tiktok"/></a>
+  <a href="https://dev.to/@syskido"><img src="https://img.icons8.com/windows/96/dev.png" alt="devto"/></a>
 
 Icons by [https://icons8.com](https://icons8.com)
 
