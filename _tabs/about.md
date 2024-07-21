@@ -15,7 +15,7 @@ order: 4
 <h1 align="center">
  ## My career: 1인 크리에이트 나령 윤기도<br>
   
-![나령윤기도](https://github.com/syskido/syskido.github.io/blob/main/assets/image/yunkido.jpg){: width="60%","height="40%""}
+![나령윤기도](https://avatars.githubusercontent.com/u/61651321?s=400&u=380c4fa5a1a81e90e3ac34e72298b628e8e13852&v=4)
 
   
  
