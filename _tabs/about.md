@@ -15,7 +15,7 @@ order: 4
 <h1 align="center">
  ## My career: 1인 크리에이트 나령 윤기도
   
-![kido](https://github.com/syskido/syskido.github.io/blob/main/assets/image/yunkido.jpg))
+![](https://github.com/syskido/syskido.github.io/blob/main/assets/image/yunkido.jpg)
 
   
  
