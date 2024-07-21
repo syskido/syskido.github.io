@@ -138,10 +138,13 @@ GitHub에서 새 저장소를 생성합니다. 저장소 이름은 원하는 이
 6. 사이트 확인:
    - `https://사용자명.github.io/project1`에서 사이트 확인.
 
-< 스크립트  src = " https://utteranc.es/client.js "
- 리포 = " syskido/syskido.github.io " 이슈-용어 = " url " 레이블 = " github " 테마 = " github-dark-orange " crossorigin = " 익명 " 비동기 > </ 스크립트 >        
-        
-        
+<script src="https://utteranc.es/client.js"
+        repo="syskido/syskido.github.io"
+        issue-term="pathname"
+        theme="github-dark-orange"
+        crossorigin="anonymous"
+        async>
+</script>       
         
         
         
