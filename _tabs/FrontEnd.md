@@ -14,3 +14,12 @@ order: 5
   Isotope - masonry layout mode</a> by kido (<a href="https://codepen.io/syskido">@syskido</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
+
+
+<script src="https://utteranc.es/client.js"
+        repo="syskido/syskido.github.io"
+        issue-term="pathname"
+        theme="github-dark-orange"
+        crossorigin="anonymous"
+        async>
+</script>
