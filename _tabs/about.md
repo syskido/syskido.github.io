@@ -13,9 +13,9 @@ order: 4
   # Hi, I'm Dream Kido-Coding</h1>
   
 <h1 align="center">
- ## My career: 1인 크리에이트 나령 윤기도
+ ## My career: 1인 크리에이트 나령 윤기도<br>
   
-![](https://github.com/syskido/syskido.github.io/blob/main/assets/image/yunkido.jpg)
+![나령윤기도](https://github.com/syskido/syskido.github.io/blob/main/assets/image/yunkido.jpg){: width="60%","height="40%""}
 
   
  
