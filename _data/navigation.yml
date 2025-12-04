@@ -7,6 +7,6 @@ docs:
   - title: "나령 윤기도 블로그 모음"
     children:
       - title: "티스토리"
-    url: "https://syskido.tistory.com"  
+    url: /categories/  
     
     
