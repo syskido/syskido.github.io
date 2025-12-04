@@ -184,25 +184,7 @@ defaults:
       # to update the code of all other post links in this project.
       permalink: /posts/:title/
       sidebar:
-        nav: "docs"
-  - scope:
-      path: _drafts
-    values:
-      comments: true
-  - scope:
-      path: ""
-      type: tabs # see `site.collections`
-    values:
-      layout: page
-      permalink: /:title/
-  - scope:
-      path: assets/js/dist
-    values:
-      swcache: true
-
-sass:
-  style: compressed
-
+        nav: "docs" 
 compress_html:
   clippings: all
   comments: all
