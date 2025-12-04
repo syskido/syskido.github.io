@@ -1,4 +1,12 @@
 # main links
-main:
-  - title: "category"
+docs:
+  - title: "KIDO UNITY"
+    children:
+      - title: "나령 윤기도 게임개발 페이지"
     url: /categories/
+  - title: "나령 윤기도 블로그 모음"
+    children:
+      - title: "티스토리"
+    url: "https://syskido.tistory.com"  
+    
+    
